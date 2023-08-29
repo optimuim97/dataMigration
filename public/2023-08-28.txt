@@ -1,0 +1,124 @@
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211446
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211447
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211448
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211449
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [ApaymProTemp] => 
+)

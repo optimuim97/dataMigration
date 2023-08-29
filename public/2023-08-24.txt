@@ -1,0 +1,1941 @@
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211446
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211447
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211448
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211449
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211450
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211451
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211452
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211453
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211454
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211455
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211477
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211478
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211479
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211480
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211481
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211482
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211483
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211484
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211485
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211486
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211446
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211447
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211448
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211449
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211450
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211451
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211452
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211453
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211454
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211455
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211477
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211478
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211479
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211480
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211481
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211482
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211483
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211484
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211485
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211486
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211487
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211488
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211489
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211490
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => 1
+            [responseMessage] => Information du Business sauvegarder avec succès !
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211491
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211492
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211495
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => 1
+            [responseMessage] => Information du Business sauvegarder avec succès !
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211496
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => 1
+            [responseMessage] => Information du Business sauvegarder avec succès !
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211497
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => 1
+            [responseMessage] => Information du Business sauvegarder avec succès !
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211498
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => 1
+            [responseMessage] => Information du Business sauvegarder avec succès !
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211499
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => 1
+            [responseMessage] => Information du Business sauvegarder avec succès !
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211500
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => 1
+            [responseMessage] => Information du Business sauvegarder avec succès !
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211501
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => 1
+            [responseMessage] => Information du Business sauvegarder avec succès !
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211502
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => 1
+            [responseMessage] => Information du Business sauvegarder avec succès !
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211503
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => 1
+            [responseMessage] => Information du Business sauvegarder avec succès !
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211504
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => 1
+            [responseMessage] => Information du Business sauvegarder avec succès !
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211505
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => 1
+            [responseMessage] => Information du Business sauvegarder avec succès !
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211506
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => 1
+            [responseMessage] => Information du Business sauvegarder avec succès !
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211507
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => 1
+            [responseMessage] => Information du Business sauvegarder avec succès !
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211508
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => 1
+            [responseMessage] => Information du Business sauvegarder avec succès !
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211509
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => 1
+            [responseMessage] => Information du Business sauvegarder avec succès !
+        )
+
+)
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211510
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [Apaym Delete] => Array
+        (
+            [responseType] => delete
+            [responseCode] => 1
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => 1
+            [responseMessage] => Information du Business sauvegarder avec succès !
+        )
+
+)
+Array
+(
+    [Apaym] => Array
+        (
+            [codeMsg] => 1
+            [profilID] => 211512
+            [descMessage] => Succès
+        )
+
+    [Piece] => Array
+        (
+            [id] => 3638
+            [responseType] => save
+            [responseCode] => 1
+            [sign] => sign_21151220230824060721.jpg
+        )
+
+    [Client] => Array
+        (
+            [id] => 145126
+            [responseType] => save
+            [responseCode] => 1
+        )
+
+    [Carte] => Array
+        (
+            [codeMessage] => 2
+            [descMessage] => Possède déjà une carte, pas eligible
+        )
+
+    [ApaymPro] => Array
+        (
+            [responseCode] => 2
+            [responseMessage] => Paramètres manquant
+        )
+
+)
+Array
+(
+    [Apaym] => Array
+        (
+            [codeMsg] => 1
+            [profilID] => 211513
+            [descMessage] => Succès
+        )
+
+    [Piece] => Array
+        (
+            [id] => 3639
+            [responseType] => save
+            [responseCode] => 1
+            [sign] => sign_21151320230824060721.jpg
+        )
+
+    [Client] => Array
+        (
+            [id] => 145127
+            [responseType] => save
+            [responseCode] => 1
+        )
+
+    [Carte] => Array
+        (
+            [codeMessage] => 1
+            [descMessage] => Card created successfully
+            [cardData] => Array
+                (
+                    [idClient] => 12345678
+                    [date_exp] => 2026-07
+                    [chiffre] => 0012
+                )
+
+        )
+
+    [ApaymPro] => Array
+        (
+            [responseCode] => 1
+            [responseMessage] => Business créé avec succès !
+        )
+
+)

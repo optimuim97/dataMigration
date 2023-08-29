@@ -1,0 +1,24 @@
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211520
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => 1
+            [responseMessage] => Information du Business sauvegarder avec succès !
+        )
+
+)

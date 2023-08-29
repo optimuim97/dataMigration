@@ -1,0 +1,44 @@
+Array
+(
+    [Apaym] => Array
+        (
+            [codeMsg] => 4
+            [profilID] => 211515
+            [descMessage] => Existe déjà
+        )
+
+    [Piece] => Array
+        (
+            [id] => 3645
+            [responseType] => save
+            [responseCode] => 1
+            [sign] => sign_21151520230825103731.jpg
+        )
+
+    [Client] => Array
+        (
+            [id] => 145133
+            [responseType] => save
+            [responseCode] => 1
+        )
+
+    [Carte] => Array
+        (
+            [codeMessage] => 1
+            [descMessage] => Card created successfully
+            [cardData] => Array
+                (
+                    [idClient] => 12345678
+                    [date_exp] => 2026-07
+                    [chiffre] => 0012
+                )
+
+        )
+
+    [ApaymPro] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Marchand existant ou Numéro Externe
+        )
+
+)

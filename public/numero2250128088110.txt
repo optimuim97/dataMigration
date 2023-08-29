@@ -1,0 +1,37 @@
+Array
+(
+    [Apaym] => Array
+        (
+            [codeMsg] => 1
+            [profilID] => 211519
+            [descMessage] => Succès
+        )
+
+    [Piece] => Array
+        (
+            [id] => 3648
+            [responseType] => save
+            [responseCode] => 1
+            [sign] => sign_21151920230828021440.jpg
+        )
+
+    [Client] => Array
+        (
+            [id] => 145136
+            [responseType] => save
+            [responseCode] => 1
+        )
+
+    [Carte] => Array
+        (
+            [codeMessage] => 2
+            [descMessage] => Possède déjà une carte, pas eligible
+        )
+
+    [ApaymPro] => Array
+        (
+            [responseCode] => 2
+            [responseMessage] => Paramètres manquant
+        )
+
+)
