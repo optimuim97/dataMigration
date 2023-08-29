@@ -467,7 +467,8 @@ class HttpGuzzle
                 ->setPosition($key)
                 ->setIsLoopError(true)
                 ->setLogDescription(json_encode($res["codeMsg"] ?? "empty"))
-                ->setIsLoopError(true)->setFile($file)
+                ->setIsLoopError(true)
+                ->setFile($file)
                 ->setMetaData($res ? json_encode($res) : "");
 
             $this->em->persist($exception);

@@ -28,7 +28,7 @@ use function Amp\delay;
 class ApaymProMultipleController extends AbstractController
 {
 
-    public function __construct(private EntityManagerInterface $em, private ValidatorInterface $validator,private HttpGuzzle $httpGuzzle, private DataFileRepository $dataFileRepository, private SerializerInterface $serializer)
+    public function __construct(private EntityManagerInterface $em, private ValidatorInterface $validator, private HttpGuzzle $httpGuzzle, private DataFileRepository $dataFileRepository, private SerializerInterface $serializer)
     {
     }
 
@@ -51,18 +51,17 @@ class ApaymProMultipleController extends AbstractController
         /*File*/
         $file = $request->files->get('excel_file', $deviceData); // Get the file from the sent request
 
+
         if (!empty($file)) {
 
             $queue = new Queue();
             $start = \microtime(true);
-            $elapsed = fn () => \microtime(true) - $start;
+            // $elapsed = fn () => \microtime(true) - $start;
 
             $dataExtrator = $this->xslx($file, $deviceData);
 
             $fileSaved =  $dataExtrator['dataFile'];
             $excelFile = $dataExtrator['extractData'];
-
-            // dd($excelFile);
 
             (new Session())->set('total', 0);
             (new Session())->set('success_apaym_count', 0);
@@ -90,7 +89,6 @@ class ApaymProMultipleController extends AbstractController
                             array_push($responseArr, $response);
 
                             (new Session())->set('responseData', $responseArr);
-
                         } catch (Exception $e) {
 
                             $error = (new Session())->get('error_count') + 1;
@@ -108,7 +106,6 @@ class ApaymProMultipleController extends AbstractController
 
                             $this->em->persist($exception);
                             $this->em->flush();
-
                         }
                     });
                 }
@@ -128,8 +125,7 @@ class ApaymProMultipleController extends AbstractController
 
             (new Session())->invalidate();
 
-            /*Result*/
-            return $this->json([
+            $result = [
                 "success" => "OK",
                 "total" => $total,
                 "success_apaym_count" => $success_apaym_count,
@@ -138,10 +134,29 @@ class ApaymProMultipleController extends AbstractController
                 "error_apaym_pro_temp_count" => $error_apaym_pro_temp_count,
                 "error_count" => $error_count,
                 "existing_count" => $existing_count,
-                "elapsed" => $elapsed(),
+                // "execution_time" => $elapsed(),
                 "responseData" => $responseData
-            ]);
+            ];
+
+            $lastResult =  new LoopLog();
+            $lastResult
+                ->setIsLoopError(false)
+                ->setIsSuccess(true)
+                ->setFile($fileSaved)
+                ->setStatusCode(200)
+                ->setMessage("FINAL")
+                ->setPosition("lastPosition")
+                ->setProfilID(0)
+                ->setMetaData(json_encode($result));
+
+            $this->em->persist($lastResult);
+            $this->em->flush();
+
+            /*Result*/
+            return $this->json($result);
         }
+
+
 
         return $this->json([
             "error" => "The excel file has not be uploaded"
