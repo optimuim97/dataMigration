@@ -1,0 +1,39 @@
+Array
+(
+    [Apaym] => Array
+        (
+            [codeMsg] => 1
+            [profilID] => 211578
+            [descMessage] => Succès
+        )
+
+    [Piece] => Array
+        (
+            [id] => 3706
+            [responseType] => save
+            [responseCode] => 1
+            [sign] => sign_21157820230830125830.jpg
+        )
+
+    [Client] => Array
+        (
+            [id] => 145194
+            [responseType] => save
+            [responseCode] => 1
+        )
+
+    [Carte] => Array
+        (
+            [codeMessage] => 1
+            [descMessage] => Card created successfully
+            [cardData] => Array
+                (
+                    [idClient] => 12345678
+                    [date_exp] => 2026-07
+                    [chiffre] => 0012
+                )
+
+        )
+
+    [ApaymPro] => 
+)

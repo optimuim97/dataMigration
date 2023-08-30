@@ -1,0 +1,24 @@
+Array
+(
+    [Op] => unitec
+    [Apaym] => Array
+        (
+            [codeMsg] => 1
+            [profilID] => 211577
+            [descMessage] => Succès
+        )
+
+    [Piece] => Array
+        (
+            [error] => Cette pièce d'identité est déjà enregistré
+            [id] => 0
+            [responseCode] => 0
+        )
+
+    [ApaymProTemp] => Array
+        (
+            [responseCode] => -1
+            [responseMessage] => Impossible de créer ce business - Information imcomplète 
+        )
+
+)

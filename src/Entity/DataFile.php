@@ -38,6 +38,10 @@ class DataFile
     #[ORM\OneToMany(mappedBy: 'file', targetEntity: LoopLog::class)]
     private Collection $loopLogs;
 
+    #[ORM\Column(nullable: true)]
+    #[Groups(["file"])]
+    private ?array $response = null;
+
     use Timestapable;
 
     public function __construct()
@@ -136,6 +140,18 @@ class DataFile
                 $loopLog->setFile(null);
             }
         }
+
+        return $this;
+    }
+
+    public function getResponse(): ?array
+    {
+        return $this->response;
+    }
+
+    public function setResponse(?array $response): static
+    {
+        $this->response = $response;
 
         return $this;
     }

@@ -30,7 +30,10 @@
                       <td>{{ item.name }}</td>
                       <td>{{ item.status }}</td>
                       <td>
-                        <a class="fa fa-eye" @click="getFileResult(item.id)"></a>
+                        <a
+                          class="fa fa-eye"
+                          @click="getFileResult(item.id)"
+                        ></a>
                       </td>
                     </tr>
                   </tbody>
@@ -39,11 +42,7 @@
 
               <div class="col-md-7">
                 <section class="section" v-if="displayResult == true">
-
-                  <h2>
-                    {{  filename }}
-                  </h2>
-
+                  <h2>{{ filename }}</h2>
 
                   <div class="row">
                     <!-- 
@@ -104,13 +103,16 @@
                           <div class="card-header">
                             <h4>Erreur</h4>
                           </div>
-                          <div class="card-body">
-                            {{ error_count?.length }}
-                          </div>
+                          <div class="card-body">{{ error_count?.length }}</div>
                         </div>
                       </div>
                     </div>
                   </div>
+
+                  <div v-if="fileDataResponse">
+                    <Vue3Prism :source="fileDataResponse" v-if="fileDataResponse"> </Vue3Prism>
+                  </div>
+
                 </section>
               </div>
             </div>
@@ -135,8 +137,9 @@ export default {
       success_count: "",
       existing_count: "",
       error_count: "",
-      displayResult : false,
-      filename : ""
+      displayResult: false,
+      filename: "",
+      fileDataResponse: "",
     };
   },
   methods: {
@@ -156,15 +159,27 @@ export default {
       axios
         .get(`/api/v1/get-error-uploader-file/${id}`)
         .then((res) => {
-          console.log(res)
+          // console.log(res);
 
           this.displayResult = true;
 
           if (res.status == 200) {
+            // alert('hello')
+            console.log("hello");
+            // console.log(JSON.stringify(res.data.data.fileData.response))
+
             this.success_count = res.data.data?.success;
+            this.fileDataResponse = JSON.stringify(
+              res.data.data.fileData.response
+            );
+
+            // console.log(this.fileDataResponse)
+
             this.error_count = res.data.data?.errors;
             this.existing_count = res.data.data?.existing;
-            this.filename = res.data.data.fileData.name
+            this.filename = res.data.data.fileData.name;
+
+            console.log(fileDataResponse);
           }
         })
         .catch((e) => {});
@@ -172,6 +187,11 @@ export default {
   },
   created() {
     this.getfile();
+  },
+  filters: {
+    pretty: function (value) {
+      return JSON.stringify(JSON.parse(value), null, 2);
+    },
   },
 };
 </script>

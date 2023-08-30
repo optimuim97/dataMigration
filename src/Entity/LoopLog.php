@@ -44,7 +44,7 @@ class LoopLog
     #[ORM\Column(nullable: true)]
     private ?bool $isSuccess = null;
 
-    #[ORM\Column(type: Types::TEXT)]
+    #[ORM\Column(type: Types::TEXT, nullable:true)]
     private ?string $metaData = null;
 
     public function getId(): ?int

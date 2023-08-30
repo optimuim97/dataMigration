@@ -712,4 +712,28 @@ class HttpGuzzle
         $res = json_decode($response->getBody()->getContents(), true);
         return $res;
     }
+
+    public function getMergeData($profilid){
+        $client = new Client();
+        $url = "https://apaytest.weblogy.net/servicesApay/Controllers/tbl_services.ctrl.php";
+    
+        try {
+            $response = $client->post($url, [
+                'query' => [
+                    'task' => 'getMergeData'
+                ],
+                'multipart' => [
+                    [
+                        'name' => 'profil_id',
+                        'contents' => $profilid
+                    ]
+                ]
+            ]);
+        } catch (Exception $e) {
+            return responseForm($e, $e->getCode(), $e->getMessage());
+        }
+
+        $res = json_decode($response->getBody()->getContents(), true);
+        return $res;
+    }
 }

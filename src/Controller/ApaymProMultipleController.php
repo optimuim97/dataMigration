@@ -51,17 +51,22 @@ class ApaymProMultipleController extends AbstractController
         /*File*/
         $file = $request->files->get('excel_file', $deviceData); // Get the file from the sent request
 
-
         if (!empty($file)) {
 
             $queue = new Queue();
             $start = \microtime(true);
-            // $elapsed = fn () => \microtime(true) - $start;
+            $elapsed = fn () => \microtime(true) - $start;
 
             $dataExtrator = $this->xslx($file, $deviceData);
 
             $fileSaved =  $dataExtrator['dataFile'];
             $excelFile = $dataExtrator['extractData'];
+
+            //Split dataList 
+            // $list = null;
+            // if( (int) $range >= 100){
+            //     $list = array_chunk($excelFile, 20, true);
+            // }
 
             (new Session())->set('total', 0);
             (new Session())->set('success_apaym_count', 0);
@@ -76,7 +81,7 @@ class ApaymProMultipleController extends AbstractController
             /*Loop*/
             foreach ($excelFile as $key => $row) {
                 if ($key <= $range) {
-                    delay(0.1);
+                    delay(0.05);
 
                     async(function () use ($row, $key, $fileSaved) {
                         $total = (new Session())->get('total');
@@ -134,29 +139,19 @@ class ApaymProMultipleController extends AbstractController
                 "error_apaym_pro_temp_count" => $error_apaym_pro_temp_count,
                 "error_count" => $error_count,
                 "existing_count" => $existing_count,
-                // "execution_time" => $elapsed(),
+                "elapsed" => $elapsed(),
                 "responseData" => $responseData
             ];
 
-            $lastResult =  new LoopLog();
-            $lastResult
-                ->setIsLoopError(false)
-                ->setIsSuccess(true)
-                ->setFile($fileSaved)
-                ->setStatusCode(200)
-                ->setMessage("FINAL")
-                ->setPosition("lastPosition")
-                ->setProfilID(0)
-                ->setMetaData(json_encode($result));
-
-            $this->em->persist($lastResult);
+            $fileSaved->setResponse($result);
+            $this->em->persist($fileSaved);
             $this->em->flush();
+
+            // dd($fileSaved);
 
             /*Result*/
             return $this->json($result);
         }
-
-
 
         return $this->json([
             "error" => "The excel file has not be uploaded"
